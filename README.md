@@ -1,4 +1,4 @@
-# Entregable Número 2 - Lógica de Programación 2 🌟
+# Entregable Número 3 - Lógica de Programación 2 🌟
 Repositorio del entregable número 2. Este proyecto es el resultado de horas de dedicación y aprendizaje. Espero sea de tu agrado! 🚀
 
 # Descripción 💡 
